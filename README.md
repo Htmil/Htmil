@@ -13,6 +13,9 @@ I'm Emil Cederslätt, a passionate developer exploring the vast realms of code. 
         <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
     </a>
     <a href="https://dev.to/envoy_/150-badges-for-github-pnk">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JAVASCRIPT"/>
+    </a>
+    <a href="https://dev.to/envoy_/150-badges-for-github-pnk">
         <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
     </a>    
     <a href="https://dev.to/envoy_/150-badges-for-github-pnk">
