@@ -1,3 +1,4 @@
+##
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi!+I'm+HTMIL+%2F+Emil+Cedersl%C3%A4tt;Welcome+to+my+Github!" alt="Typing SVG" /></a>
 
 - 🌱 Currently learning C# and growing every day.
@@ -5,7 +6,6 @@
 - 🚧 Profile (Work in Progress)
 
 ## Skills 
-
 
 <div align="left">
     <a href="https://dev.to/envoy_/150-badges-for-github-pnk">
