@@ -5,7 +5,7 @@
 - 💬 Ask me about anything!
 - 🚧 Profile (Work in Progress)
 
-<div align="center">
+<div align="left">
     <a href="https://dev.to/envoy_/150-badges-for-github-pnk">
         <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
     </a>
