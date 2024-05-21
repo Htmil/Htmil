@@ -6,7 +6,7 @@
 - 💬 Ask me anything!
 - 🚧 Profile (Work in Progress)
 
-## Skills 
+##
 
 <div align="center">
     <a href="https://dev.to/envoy_/150-badges-for-github-pnk">
