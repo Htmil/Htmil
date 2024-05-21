@@ -1,4 +1,4 @@
-![Header](./Banner_moving.gif)
+![Header](./Banner.gif)
 
 ##
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&random=false&width=800&lines=Hi!+I'm+HTMIL+%2F+Emil+Cedersl%C3%A4tt;Welcome+to+my+Github!" alt="Typing SVG" /></a>
