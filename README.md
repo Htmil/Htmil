@@ -10,9 +10,6 @@
 
 <div align="left">
     <a href="https://dev.to/envoy_/150-badges-for-github-pnk">
-        <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-    </a>
-    <a href="https://dev.to/envoy_/150-badges-for-github-pnk">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JAVASCRIPT"/>
     </a>
     <a href="https://dev.to/envoy_/150-badges-for-github-pnk">
@@ -26,6 +23,12 @@
     </a>    
     <a href="https://dev.to/envoy_/150-badges-for-github-pnk">
         <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+    </a>
+    <a href="https://dev.to/envoy_/150-badges-for-github-pnk">
+        <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+    </a>
+    <a href="https://dev.to/envoy_/150-badges-for-github-pnk">
+        <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET"/>
     </a>
     <a href="https://dev.to/envoy_/150-badges-for-github-pnk">
         <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
