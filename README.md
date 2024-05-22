@@ -1,7 +1,7 @@
 ##
 ![Header](./Banner.gif)
 
-- 🌱 I'm currently learning:  
+🌱 I'm currently learning:  
  <div align="left">
     <a href="https://dev.to/envoy_/150-badges-for-github-pnk">
         <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
@@ -14,8 +14,8 @@
     </a>
  </div>
  <br>
-- 💬 Ask me anything!
-- 🚧 Profile (Work in Progress)
+💬 Ask me anything!
+🚧 Profile (Work in Progress)
  
 ### Tech Stack: 
 
