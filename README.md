@@ -2,12 +2,11 @@
 ![Header](./Banner.gif)
 
 
-- 🌱 Currently learning C# and Microsoft SQL server.
 - 💬 Ask me anything!
 - 🚧 Profile (Work in Progress)
 
  <div align="left">
-    <p> I'm currently learning: </p>
+    - 🌱 I'm currently learning: 
     <a href="https://dev.to/envoy_/150-badges-for-github-pnk">
         <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
     </a>
@@ -16,7 +15,9 @@
     </a>
     <a href="https://dev.to/envoy_/150-badges-for-github-pnk">
         <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MS SQL"/>
-    </a>   
+    </a>
+    - 💬 Ask me anything!
+    - 🚧 Profile (Work in Progress)
  </div>
  
 ### Tech Stack: 
