@@ -19,7 +19,7 @@
  
 ### Tech Stack: 
 
-<div align="center">
+<div align="left">
     <a href="https://dev.to/envoy_/150-badges-for-github-pnk">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JAVASCRIPT"/>
     </a>
