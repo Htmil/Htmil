@@ -48,5 +48,9 @@
     <a href="https://dev.to/envoy_/150-badges-for-github-pnk">
         <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="JQUERY"/>
     </a>
+    <a href="https://dev.to/envoy_/150-badges-for-github-pnk">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    </a>
+
 </div>
 
