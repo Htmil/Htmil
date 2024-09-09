@@ -56,6 +56,5 @@
     </a>
 
 </div>
-<div>
- https://github-readme-stats.vercel.app/api/top-langs/?username={Htmil}&theme=blue-green
-</div>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Htmil&theme=blue-green)
