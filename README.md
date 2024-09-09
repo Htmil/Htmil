@@ -8,8 +8,6 @@
     </a>
  </div>
  <br>
-💬 Ask me anything! <br>
-🚧 Profile (Work in Progress)
  
 ### Tech Stack: 
 
@@ -56,7 +54,10 @@
     </a>
 
 </div>
-
 <br>
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Htmil&theme=blue-green)
+ ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Htmil&theme=blue-green)
+ 
+</div>
+
