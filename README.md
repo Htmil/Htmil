@@ -13,8 +13,6 @@
 
 <div align="left">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Htmil&theme=radical&layout=compact)
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) 
@@ -36,6 +34,9 @@
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) 
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 
+<br>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Htmil&theme=radical&layout=compact)
 </div>
 
 
