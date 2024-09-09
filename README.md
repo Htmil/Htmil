@@ -4,10 +4,7 @@
 🌱 I'm currently learning:  
  <div align="left">
     <a href="https://dev.to/envoy_/150-badges-for-github-pnk">
-        <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure"/>
-    </a>
-     <a href="https://dev.to/envoy_/150-badges-for-github-pnk">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WORDPRESS"/>
     </a>
  </div>
  <br>
@@ -58,6 +55,7 @@
         <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WORDPRESS"/>
     </a>
 
-
 </div>
-
+<div>
+ https://github-readme-stats.vercel.app/api/top-langs/?username={Htmil}&theme=blue-green
+</div>
