@@ -9,7 +9,7 @@
  </div>
  <br>
  
-### Tech Stack: 
+# 💻Tech Stack
 
 <div align="left">
     <a href="https://dev.to/envoy_/150-badges-for-github-pnk">
@@ -61,7 +61,6 @@
 # 📊GitHub Stats :
 
  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Htmil&theme=radical&show_icons=true)
-
 
 
 
