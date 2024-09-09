@@ -58,7 +58,7 @@
 <br>
 <div align="left">
 
- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Htmil&theme=blue-green)
+ ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Htmil&theme=radical)
  
 </div>
 
